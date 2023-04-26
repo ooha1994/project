@@ -1,0 +1,79 @@
+// Here you can add other styles
+.sidebar-nav .nav-icon {
+    height: 3.25rem !important;
+}
+
+.sidebar-nav .nav-link {
+    padding: 2.8445rem 1rem !important;
+    margin:5px 4px 5px 1px !important;
+}
+.sidebar-brand{
+    flex: 0 0 15rem !important;
+}
+.avatar-img{
+    width:600% !important;
+    height :500% !important;
+}
+.header-img{
+    width:5% !important;
+    height :10% !important;
+    color:red;
+}
+.container-lg {
+    margin-left: 8px !important;
+}
+.containerCss{
+    width:1500px !important;
+    height :500px !important;
+}
+.col-6 {
+    width:40% !important;
+}
+.header-nav .nav-link {
+    padding-right: 0.5rem !important;
+    padding-left: 7.5rem !important;
+}
+.navlink {
+    margin-left: 79rem!important;
+}
+h1,
+p {
+  font-family: Lato;
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+  position: relative;
+}
+
+thead tr th {
+  font-weight: 500;
+  text-align: left;
+  background-color: #fafafa;
+}
+
+tbody tr:nth-child(even) {
+  background-color: #fafafa;
+}
+
+th,
+td {
+  padding: 8px;
+  overflow-wrap: break-word;
+}
+
+.pagination-bar {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.react-datepicker__header {
+    width: 100%;
+}
+.react-datetime-picker{
+    background-color: cornflowerblue !important;
+    display: flex !important;
+}
+.disabled-date {
+  pointer-events: none;
+}

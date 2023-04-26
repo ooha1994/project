@@ -1,0 +1,15 @@
+[
+    {"email":"ooha.challagolla@gmail.com",
+"password":"testing",
+"level":"Lecturer"
+    },
+{
+    "email":"ooha.challagolla@gmail.com",
+"password":"testing",
+"level":"student"
+},
+{"email":"test",
+"password":"test",
+"level":"student"}
+]
+
